@@ -1,0 +1,10 @@
+1,google.com
+2,a-msedge.net
+3,microsoft.com
+4,facebook.com
+5,amazonaws.com
+6,googleapis.com
+7,apple.com
+8,youtube.com
+9,root-servers.net
+10,azure.com
