@@ -26,11 +26,11 @@ Example usage:
 
 You can build V8 yourself starting from Chromium/V8 and apply our FV8 patches.
 
-The `/patches` directory contains the patches of FV8 that can be applied to the base V8 version.
+The `/patches` directory contains the patches of FV8 that can be applied to the base V8 version. Link to the base V8 version [V8-base](https://chromium.googlesource.com/v8/v8.git).
 
 Example command:
 
-```patch -p1 <$LAST_FV8_PATCH_FILE```
+```patch -p1 <patches/$LAST_FV8_PATCH_FILE```
 
 ### c) Running the FV8 Crawler to visit websites
 
