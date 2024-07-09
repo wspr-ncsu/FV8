@@ -92,4 +92,4 @@ If you use *VisibleV8* in your research, consider citing our work using this **B
 
 ## License:
 
-TBD, same license as VisibleV8
+This project is offered under the MIT License (See License Tab)
